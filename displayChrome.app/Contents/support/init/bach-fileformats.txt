@@ -1,3 +1,0 @@
-max definekind llllfile @parent file @showextension 1;
-
-max fileformat .llll LLLL 0 "llll file" llllfile;

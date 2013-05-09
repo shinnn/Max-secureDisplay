@@ -1,1 +1,0 @@
-max definecommand B patcher inserttextobj bach.;
