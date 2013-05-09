@@ -1,4 +1,28 @@
-*.class
+.DS_Store
+.sass-cache
+開発
+index.html
+unittest.scss
+unittest.css
+
+# Node
+# https://github.com/github/gitignore/blob/master/Node.gitignore
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
 
 # Package Files #
 *.jar

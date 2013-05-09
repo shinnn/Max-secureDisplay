@@ -1,0 +1,6 @@
+max oblist MaxScore canvas;
+max oblist MaxScore maxscore.parse;
+max oblist MaxScore maxscore.split;
+max oblist MaxScore "mxj com.algomusic.max.MaxScore";
+max oblist MaxScore packback;
+
